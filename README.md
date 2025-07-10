@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=102b79"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=539cf5"/>
 <samp>
 
 # 🧑‍💻 Luciano Camara
@@ -7,7 +7,7 @@
 
 <!--HI THERE ANIMATION-->
 <div align="left" width="100%">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Iosevka&pause=1000&color=2DDE98&width=435&lines=Hi+There+%F0%9F%91%8B;My+name+is+Luciano.;I'm+Front-end+Developer.;Welcome+to+my+GitHub+profile+%F0%9F%91%BE" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=2dde98&width=900&size=21&left=true&lines=Hi+there+👋;My+name+is+Luciano.;I'm+Front-end+Developer;Welcome+to+my+GitHub+profile+👾;" alt="Typing SVG"/>
 </div>
 
 <!--MORE INFO-->
@@ -109,6 +109,7 @@ Instituição: Faci Wyden.<br>
         <b>Extra Stacks</b>
       </samp>
     </summary>
+    <br>
     <img
     align="left" 
     alt="docker" 
@@ -129,7 +130,7 @@ Instituição: Faci Wyden.<br>
 <br>
 <br>
 
-<!--STATICS ANIMATION-->
+<!--STATISTICS ANIMATION-->
 <div align="left" width="100%">
     <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=2dde98&width=900&size=21&left=true&lines=📊+Tech+Statics/>;" alt="Typing SVG"/>
 </div>
@@ -156,7 +157,9 @@ Instituição: Faci Wyden.<br>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucianoCamara/LucianoCamara/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LucianoCamara/LucianoCamara/output/github-contribution-grid-snake.svg">
 </picture>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=102b79&height=100&section=footer"/>
+
+<!--FOOTER-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=539cf5&height=100&section=footer"/>
 
 <!--
 ## Hi there 👋
