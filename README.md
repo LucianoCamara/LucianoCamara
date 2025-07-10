@@ -7,7 +7,7 @@
 
 <!--HI THERE ANIMATION-->
 <div align="left" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=2dde98&width=900&size=21&left=true&lines=Hi+there+👋;My+name+is+Luciano.;I'm+Front-end+Developer;Welcome+to+my+GitHub+profile+👾;" alt="Typing SVG"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Iosevka&pause=1000&color=2DDE98&width=435&lines=Hi+There+%F0%9F%91%8B;My+name+is+Luciano.;I'm+Front-end+Developer.;Welcome+to+my+GitHub+profile+%F0%9F%91%BE" alt="Typing SVG" /></a>
 </div>
 
 <!--MORE INFO-->
@@ -138,14 +138,14 @@ Instituição: Faci Wyden.<br>
     <img 
     align="left" 
     alt="GitHub Stats" 
-    height="100" 
+    height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=LucianoCamara&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&locale=pt-br" 
     />
     <img 
     align="left" 
     alt="GitHub Stats" 
-    height="100" 
+    height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoCamara&theme=github_dark_dimmed&layout=compact&custom_title=Tecnologias&langs_count=9" 
      />
 </div>
