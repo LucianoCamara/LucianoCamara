@@ -7,7 +7,7 @@
 
 <!--HI THERE ANIMATION-->
 <div align="left" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=2dde98&width=900&size=21&left=true&lines=Hi+there+👋;My+name+is+Luciano.;I'm+Front-end+Developer;Welcome+to+my+GitHub+profile+👾;" alt="Typing SVG"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Iosevka&pause=1000&color=2DDE98&width=435&lines=Hi+There%2F%3E%F0%9F%91%8B;My+name+is+Luciano%2F%3E;I'm+Front-end+Developer%2F%3E%F0%9F%92%BB;Welcome+to+my+GitHub+Profile%2F%3E%F0%9F%91%BE" alt="Typing SVG" /></a>
 </div>
 
 <!--MORE INFO-->
@@ -52,7 +52,7 @@ Instituição: Faci Wyden.<br>
 #
 <!--LANGUAGES & TOOLS ANIMATION--> 
 <div align="left" width="100%">
-    <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=2dde98&width=900&size=21&left=true&lines=🤖+Languages+and+Tools/>;" alt="Typing SVG"/>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Iosevka&pause=1000&color=2DDE98&width=435&lines=%F0%9F%A4%96+Languages+and+Tools%2F%3E" alt="Typing SVG" /></a>
 </div>
 
 <!--STACKSICON-->
@@ -132,7 +132,7 @@ Instituição: Faci Wyden.<br>
 
 <!--STATISTICS ANIMATION-->
 <div align="left" width="100%">
-    <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=2dde98&width=900&size=21&left=true&lines=📊+Tech+Statics/>;" alt="Typing SVG"/>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Iosevka&pause=1000&color=2DDE98&width=435&lines=%F0%9F%93%8A+Tech+Statistics%2F%3E" alt="Typing SVG" /></a>
 </div>
 
 <div style="display: inline_block">
