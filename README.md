@@ -17,16 +17,24 @@
         <b>More Info</b>
       </samp>
   </summary>
-  <img align="right" alt="" height="250px" width="50%" padding-rigth="10px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ZqcDRsbnVocXNocXBnd2V2ejdtdTZkOHl6bmRwd3MzdWFjcHRweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-<br>
-Olá!👋<br>
-Me chamo Luciano Camara, tenho 36 anos natural de Belém do Pará.<br>
-Formação: Análise e Desenvolvimento de Sistemas<br>
-Instituição: Faci Wyden.<br>
-<br>
-🌱 Em constante aprendizado.<br>
-⚡ Fun fact: I'm a Metal Drummer.🥁<br>
-📫 E-mail: lucianocamara.junior@gmail.com<br>
+  
+  <div style="display: flex; justify-content: space-between; gap: 16px;">
+  <section style="flex: 1; border: 1px solid #ccc; padding: 16px; border-radius: 8px;">
+    <p>Olá!👋<br>
+    Me chamo Luciano Camara, tenho 36 anos natural de Belém do Pará.<br>
+    Atualmente criando Static e Land Pages.<br>
+    <br>
+    Formação: Análise e Desenvolvimento de Sistemas<br>
+    Instituição: Faci Wyden.<br>
+    <br>
+    🌱 Em constante aprendizado.<br>
+    ⚡ Fun fact: I'm a Metal Drummer.🥁<br>
+    📫 E-mail: lucianocamara.junior@gmail.com<br></p>
+  </section>
+  <section style="flex: 1;padding: 1px; border-radius: 8px;">
+    <img style="border-radius: 8px;" heigth="100%" width="100%" align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ZqcDRsbnVocXNocXBnd2V2ejdtdTZkOHl6bmRwd3MzdWFjcHRweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+  </section>
+</div>
 <br>
 </details>
 <br>
@@ -123,7 +131,7 @@ Instituição: Faci Wyden.<br>
         <b>More Stats</b>
       </samp>
   </summary>
-
+<br>  
 <div style="display: inline_block">
     <img 
     align="left" 
@@ -139,7 +147,7 @@ Instituição: Faci Wyden.<br>
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoCamara&theme=github_dark_dimmed&layout=compact&custom_title=Tecnologias&langs_count=9" 
      />
 </div>
-
+<br>
 </details>
 
 <!--SNAKE ANIMATION-->
