@@ -17,6 +17,7 @@
         <b>More Info</b>
       </samp>
   </summary>
+  <img align="right" alt="" height="250px" width="50%" padding-rigth="10px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ZqcDRsbnVocXNocXBnd2V2ejdtdTZkOHl6bmRwd3MzdWFjcHRweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 <br>
 Olá!👋<br>
 Me chamo Luciano Camara, tenho 36 anos natural de Belém do Pará.<br>
@@ -29,25 +30,6 @@ Instituição: Faci Wyden.<br>
 <br>
 </details>
 <br>
-
-<!--BADGES-->
-<div style="display: inline_block">
-    <a href="https://www.linkedin.com/in/luciano-camara-122655213/" target="_blank">
-    <img
-        alt="LinkedIn"
-        title="Me siga no LinkedIn" 
-        src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-            <a href="https://discord.com/channels/@lucianocamara" target="_blank">
-            <img 
-                alt="Discord" 
-                title="Me siga no Discord" 
-                src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-                <a href="https://instagram.com/lucianocamara_" target="_blank">
-                    <img 
-                    alt="Instagram" 
-                    title="Me siga no Instagram" 
-                    src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"><a>                    
-</div>
 
 #
 <!--LANGUAGES & TOOLS ANIMATION--> 
@@ -135,6 +117,13 @@ Instituição: Faci Wyden.<br>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Iosevka&pause=1000&color=2DDE98&width=435&lines=%F0%9F%93%8A+Tech+Statistics%2F%3E" alt="Typing SVG" /></a>
 </div>
 
+<details align="left">  
+  <summary>
+      <samp>
+        <b>More Stats</b>
+      </samp>
+  </summary>
+
 <div style="display: inline_block">
     <img 
     align="left" 
@@ -151,13 +140,40 @@ Instituição: Faci Wyden.<br>
      />
 </div>
 
+</details>
+
 <!--SNAKE ANIMATION-->
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucianoCamara/LucianoCamara/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucianoCamara/LucianoCamara/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LucianoCamara/LucianoCamara/output/github-contribution-grid-snake.svg">
 </picture>
+<br>
+<br>  
+<!--BADGES-->
+<samp>
+    <b align="left"> Connect with me 👇</b>
+</samp>
+<br>
+<br>
 
+<div style="display: inline_block">
+    <a href="https://www.linkedin.com/in/luciano-camara-122655213/" target="_blank">
+    <img
+        alt="LinkedIn"
+        title="Me siga no LinkedIn" 
+        src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+            <a href="https://discord.com/channels/@lucianocamara" target="_blank">
+            <img 
+                alt="Discord" 
+                title="Me siga no Discord" 
+                src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+                    <a href="https://instagram.com/lucianocamara_" target="_blank">
+                    <img 
+                    alt="Instagram" 
+                    title="Me siga no Instagram" 
+                    src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"><a>                    
+</div>
 <!--FOOTER-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=539cf5&height=100&section=footer"/>
 
