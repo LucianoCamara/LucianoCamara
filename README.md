@@ -7,7 +7,7 @@ Formação: Análise e Desenvolvimento de Sistemas<br>
 Instituição: Faci Wyden.<br>
 <br>
 🌱 Em constante aprendizado.<br>
-⚡ Fun fact: I`m a Metal Drummer.🥁<br>
+⚡ Fun fact: I'm a Metal Drummer.🥁<br>
 📫 E-mail: lucianocamara.junior@gmail.com<br>
 <br>
 
@@ -17,16 +17,16 @@ Instituição: Faci Wyden.<br>
         alt="LinkedIn"
         title="Me siga no LinkedIn" 
         src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-            <a href="https://instagram.com/lucianocamara_" target="_blank">
+            <a href="https://discord.com/channels/@lucianocamara" target="_blank">
             <img 
-                alt="Instagram" 
-                title="Me siga no Instagram" 
-                src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"><a>
-                <a href="https://discord.com/channels/@lucianocamara" target="_blank">
+                alt="Discord" 
+                title="Me siga no Discord" 
+                src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+                <a href="https://instagram.com/lucianocamara_" target="_blank">
                     <img 
-                        alt="Discord" 
-                        title="Me siga no Discord" 
-                        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+                    alt="Instagram" 
+                    title="Me siga no Instagram" 
+                    src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"><a>
                         
 </div>
 
@@ -100,6 +100,8 @@ Instituição: Faci Wyden.<br>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucianoCamara/LucianoCamara/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LucianoCamara/LucianoCamara/output/github-contribution-grid-snake.svg">
 </picture>
+
+#
 <!--
 ## Hi there 👋
 
