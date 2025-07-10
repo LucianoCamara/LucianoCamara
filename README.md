@@ -1,5 +1,5 @@
 # 🧑‍💻 Luciano Camara
-**`Desenvolvedor Front-end`**
+**`Desenvolvedor Front-end Jr.`**
 
 Olá!👋<br>
 Me chamo Luciano Camara, tenho 36 anos natural de Belém do Pará.<br>
