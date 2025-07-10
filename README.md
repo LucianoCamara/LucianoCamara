@@ -17,7 +17,7 @@
         <b>More Info</b>
       </samp>
   </summary>
-  
+  <br>  
   <div style="display: flex; justify-content: space-between; gap: 16px;">
   <section style="flex: 1; border: 1px solid #ccc; padding: 16px; border-radius: 8px;">
     <p>Olá!👋<br>
@@ -31,7 +31,7 @@
     ⚡ Fun fact: I'm a Metal Drummer.🥁<br>
     📫 E-mail: lucianocamara.junior@gmail.com<br></p>
   </section>
-  <section style="flex: 1;padding: 1px; border-radius: 8px;">
+  <section style="flex: 1;">
     <img style="border-radius: 8px;" heigth="100%" width="100%" align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ZqcDRsbnVocXNocXBnd2V2ejdtdTZkOHl6bmRwd3MzdWFjcHRweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
   </section>
 </div>
