@@ -8,6 +8,7 @@
 <div align="left" width="100%">
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&pause=1000&color=2DDE98&width=435&lines=Hi+There%2F%3E%F0%9F%91%8B;My+name+is+Luciano%2F%3E;I'm+Front-end+Developer%2F%3E%F0%9F%92%BB;Welcome+to+my+GitHub+Profile%2F%3E%F0%9F%91%BE" alt="Typing SVG" /></a>
+  
 </div>
 
 <!--MORE INFO-->
@@ -31,14 +32,6 @@
     🌱 Em constante aprendizado.<br>
     ⚡ Fun fact: I'm a Metal Drummer.🥁<br>
     📫 E-mail: lucianocamara.junior@gmail.com<br></p>
-  </section>
-  <section style="flex: 1;padding: 1px; border-radius: 8px;">
-    <img 
-        align="center"  
-        heigth="100%" 
-        width="100%"
-        style="border-radius: 8px;"
-        src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ZqcDRsbnVocXNocXBnd2V2ejdtdTZkOHl6bmRwd3MzdWFjcHRweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
   </section>
  </div>
 </details>
@@ -124,7 +117,6 @@
   </div>
   <br>
 </details>
-<br>
 
 #
 
@@ -157,15 +149,9 @@
     <img
     align="center"
     alt="GitHub Stats"
-    height="100"
+    height="140"
     src="https://github-readme-stats.vercel.app/api/?username=LucianoCamara&show_icons=true&count_private=true&rank_icon=github&theme=algolia&font=Iosevka"
     /> 
-    <img
-    align="center"
-    alt="Top Language"
-    height="100"
-    src="https://github-readme-streak-stats.herokuapp.com?user=LucianoCamara&theme=algolia&card_width=885"
-    />
 </details>      
 </div>
 <br>
